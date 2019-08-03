@@ -14,7 +14,7 @@
 // creat a variable for read frequancy
 // boolean for sleep mode
 // sleep mode amount
-//extern unsigned long myChannelNumber = 443542;         /*Thingspeak channel id*/
-//extern const char *myWriteAPIKey = "4V4UQ5VL59D22LNR"; /*Channel's write API key*/
+//extern unsigned long myChannelNumber = 000000;         /*Thingspeak channel id*/
+//extern const char *myWriteAPIKey = "xxxxxxxxxxxxxxxx"; /*Channel's write API key*/
 
 #endif
